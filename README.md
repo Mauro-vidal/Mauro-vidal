@@ -11,11 +11,11 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em Java, Spring
  
   ###
 
-
 ## Projetos em Destaque 🌟
-- **[Sistema de Suporte Técnico Back-end](https://github.com/Mauro-vidal/newhelpdesk)**: Plataforma de help desk para simular atendimentos técnicos a clientes.
-- **[Sistema de Suporte Técnico Front-end](https://github.com/Mauro-vidal/newhelpdesk-front)**: Plataforma de help desk para simular atendimentos técnicos a clientes.
-- **[Menu Online para Restaurantes](https://github.com/Mauro-vidal/GourmetMenu)**: Cardápio online para restaurantes com finalização de pedido via WhatsApp.
+- **<a href="https://github.com/Mauro-vidal/newhelpdesk" target="_blank">Sistema de Suporte Técnico Back-end</a>**: Plataforma de help desk para simular atendimentos técnicos a clientes.
+- **<a href="https://github.com/Mauro-vidal/newhelpdesk-front" target="_blank">Sistema de Suporte Técnico Front-end</a>**: Plataforma de help desk para simular atendimentos técnicos a clientes.
+- **<a href="https://github.com/Mauro-vidal/GourmetMenu" target="_blank">Menu Online para Restaurantes</a>**: Cardápio online para restaurantes com finalização de pedido via WhatsApp.
+
 
 ## Estatísticas do GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Mauro-Vidal&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
