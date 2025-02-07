@@ -15,6 +15,10 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em Java, Spring
 - **<a href="https://github.com/Mauro-vidal/newhelpdesk" target="_blank">Sistema de Suporte Técnico Back-end</a>**: Plataforma de help desk para simular atendimentos técnicos a clientes.
 - **<a href="https://github.com/Mauro-vidal/newhelpdesk-front" target="_blank">Sistema de Suporte Técnico Front-end</a>**: Plataforma de help desk para simular atendimentos técnicos a clientes.
 - **<a href="https://github.com/Mauro-vidal/GourmetMenu" target="_blank">Menu Online para Restaurantes</a>**: Cardápio online para restaurantes com finalização de pedido via WhatsApp.
+- **<a href="https://github.com/Mauro-vidal/login-auth-api" target="_blank">Sistema de autenticação e autorização de Usuários Back-end</a>**: Backend com autenticação e autorização para login e cadastro de usuários.
+- **<a href="https://github.com/Mauro-vidal/login-page-frontend" target="_blank">Sistema de autenticação e autorização de Usuários Front-end</a>**: Página de login e cadastro usando Angular.
+
+
 
 
 ## Estatísticas do GitHub
