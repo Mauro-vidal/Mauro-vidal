@@ -24,9 +24,9 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em Java, Spring
 ## Estatísticas do GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Mauro-Vidal&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
- ## Gráfico de contribuições
+ <!--## Gráfico de contribuições-->
 
-![Contribuições Recentes](https://github-readme-activity-graph.vercel.app/graph?username=Mauro-Vidal&theme=react-dark&bg_color=20232a&hide_border=true&line=5bcdec&color=5bcdec)
+<!--![Contribuições Recentes](https://github-readme-activity-graph.vercel.app/graph?username=Mauro-Vidal&theme=react-dark&bg_color=20232a&hide_border=true&line=5bcdec&color=5bcdec)-->
 
 ## Tecnologias
 <div style="display: inline_block"><br>
